@@ -1,0 +1,70 @@
+baseURL = "https://brisqq.com/blog/"
+disqusShortname = ""
+languageCode = "en-us"
+paginate = 9
+summaryLength = "10"
+theme = "liva-hugo"
+title = "Brisqq Blog - Delivery and Field Service Management Blog"
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+[params]
+author = ""
+copyright = "Copyright @2021 Brisqq. All Rights Reserved"
+description = "Gain actionable insights about delivery or field service management, logistics, last-mile or route optimisation, and the software and platforms that support it."
+email = "demo@email.com"
+googleAnalitycsID = "Your ID"
+home = "Home"
+location = "Dhaka, Bangladedsh"
+logo = "images/logo.png"
+mobile = "0124857985320"
+[params.newsletter]
+content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+enable = false
+title = "Join Our Newsletter"
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+URL = "plugins/venobox/venobox.css"
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/venobox/venobox.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+URL = "plugins/search/mark.js"
+[[params.plugins.js]]
+URL = "plugins/search/search.js"
+[params.preloader]
+enable = true
+preloader = ""
+[params.search]
+enable = true
+[[params.social]]
+icon = "ti-facebook"
+link = "#"
+title = "facebook"
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
+title = "twitter"
+[[params.social]]
+icon = "ti-instagram"
+link = "#"
+title = "instagram"
+[[params.social]]
+icon = "ti-github"
+link = "#"
+title = "github"
+[[params.social]]
+icon = "ti-linkedin"
+link = "#"
+title = "linkedin"

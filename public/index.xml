@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brisqq Blog - Delivery and Field Service Management Blog</title>
+    <link>https://brisqq.com/blog/</link>
+    <description>Recent content on Brisqq Blog - Delivery and Field Service Management Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://brisqq.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ananas – the Amazon of the Western Balkans partners with eLogii to enhance visibility and control in the last-mile</title>
+      <link>https://brisqq.com/blog/my-first-post/</link>
+      <pubDate>Tue, 22 Jun 2021 10:00:00 +0000</pubDate>
+      
+      <guid>https://brisqq.com/blog/my-first-post/</guid>
+      <description>Ananas has chosen eLogii, the leading next generation last-mile optimization solution to drive visibility and control as it rapidly scales operations across the Balkan region over the coming years.</description>
+    </item>
+    
+  </channel>
+</rss>

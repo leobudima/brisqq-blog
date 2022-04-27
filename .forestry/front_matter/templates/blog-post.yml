@@ -40,3 +40,5 @@ fields:
     min: 
     max: 
   label: tags
+pages:
+- content/test-post.md

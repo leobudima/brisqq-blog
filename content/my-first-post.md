@@ -1,9 +1,8 @@
-
 +++
-canonical = "https://elogii.com/news/elogii-ananas-delta-holding/"
+canonical = "https://brisqq.com/blog/elogii-ananas-delta-holding/"
 date = 2021-06-22T10:00:00Z
 description = "Ananas has chosen eLogii, the next generation last-mile optimization solution to drive visibility and control as it rapidly scales operations. "
-image = "/news/uploads/elogii-ananas-delta-holding.png"
+image = "/blog/uploads/elogii-ananas-delta-holding.png"
 title = "Ananas – the Amazon of the Western Balkans partners with eLogii to enhance visibility and control in the last-mile"
 titletag = "Ananas – Amazon of the Balkans partners with eLogii"
 type = "post"

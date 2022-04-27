@@ -3,7 +3,6 @@ canonical = ""
 categories = [""]
 date = 2022-04-25T22:00:00Z
 description = "test"
-draft = true
 image = ""
 tags = []
 title = "Test post"

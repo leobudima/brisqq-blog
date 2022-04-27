@@ -1,0 +1,25 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: text
+  name: canonical
+  label: canonical
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: textarea
+  name: title
+  label: title
+- type: text
+  name: titletag
+  label: titletag
+- type: text
+  name: type
+  label: type

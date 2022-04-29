@@ -1,6 +1,4 @@
 <div class="header-container">
-	<!-- <div class="header-background-helper"> -->
-
 	<div class="first-header columns show-for-xlarge first-header-back">
 		<div class="menu-cont float-left" id="main-menu">
 			<ul class="menu horizontal text-center">
@@ -11,14 +9,12 @@
 					>
 						{{ $img := resources.Get "images/facebook_logo.svg" }}
 						<img class="" src="{{ $img.Permalink}}" alt="logo" />
-						<!-- <img src="/assets/img/new_images/icons/facebook_logo.svg" /> -->
 					</a>
 				</li>
 				<li>
 					<a href="https://twitter.com/Brisqq_Delivery" class="logo float-left">
 						{{ $img := resources.Get "images/twitter_logo.svg" }}
 						<img class="" src="{{ $img.Permalink}}" alt="logo" />
-						<!-- <img src="/assets/img/new_images/icons/twitter_logo.svg" /> -->
 					</a>
 				</li>
 				<li>
@@ -28,12 +24,6 @@
 					>
 						{{ $img := resources.Get "images/linkedin_logo.svg" }}
 						<img class="" src="{{ $img.Permalink}}" alt="logo" />
-						<!--
-						<img
-							class="ln"
-							src="/assets/img/new_images/icons/linkedin_logo.svg"
-						/>
-						-->
 					</a>
 				</li>
 			</ul>
@@ -65,7 +55,6 @@
 	<div class="header row columns">
 		<div class="hamburger float-right hide-for-xlarge">
 			<button class="menu-icon" type="button"></button>
-			<!-- <button class="menu-icon-white" type="button"></button> -->
 		</div>
 
 		<a href="/" class="logo float-left">
@@ -99,262 +88,76 @@
 				<li><a href="/resources">Resources</a></li>
 				<!-- <li><a href="/about">About Us</a></li> -->
 				<li><a href="/faq">FAQ</a></li>
-				<!-- <li><a href="https://blog.brisqq.com">Blog</a></li> -->
+				<li><a href="https://blog.brisqq.com">Blog</a></li>
 			</ul>
 		</div>
 	</div>
 
-	<!-- </div> -->
+	<div class="menu-cont-full float-right hide-for-xlarge" id="main-menu-full">
+		<ul class="menu vertical">
+			<li class="add-space li-solutions">
+				<div class="solutions">
+					<p>Solutions</p>
+					<div class="arrow-down">
+						<i class="bicon-right"></i>
+					</div>
+					<div class="hidden arrow-up">
+						<i class="bicon-right"></i>
+					</div>
+					<div class="dropdown-solutions">
+						<a href="/e-commerce-solution">E-Commerce</a>
+						<a href="/in-store-solution">In-Store</a>
+					</div>
+				</div>
+			</li>
+			<li><a href="/success-stories/skandium">Success Stories</a></li>
+			<li><a href="/use-cases/overview">Use Cases</a></li>
+			<li><a href="/resources">Resources</a></li>
+			<!-- <li><a href="/about">About Us</a></li> -->
+			<li><a href="/faq">FAQ</a></li>
+			<li><a href="https://blog.brisqq.com">Blog</a></li>
+			<li>
+				<div class="horiz-small">
+					<div class="nav-menu-display">
+						<a class="hs-sign-up-link" href="/sign-up">Sign Up Now</a>
+					</div>
+					<span>|</span>
+					<div class="nav-menu-display">
+						<a
+							href="/deliver-with-us"
+							class="hs-deliver-with-us-link couriers-link"
+							>Deliver With Us</a
+						>
+					</div>
+					<span class="show-for-medium">|</span>
+					<div class="nav-menu-display">
+						<a class="hs-customer-login-link" href="https://partners.brisqq.com"
+							>Customer Login</a
+						>
+					</div>
+				</div>
+			</li>
+
+			<li class="social-icons">
+				<a
+					href="https://www.facebook.com/brisqqdelivery/"
+					class="logo float-left"
+				>
+					{{ $img := resources.Get "images/facebook_logo.svg" }}
+					<img class="" src="{{ $img.Permalink}}" alt="logo" />
+				</a>
+				<a href="https://twitter.com/Brisqq_Delivery" class="logo float-left">
+					{{ $img := resources.Get "images/twitter_logo.svg" }}
+					<img class="" src="{{ $img.Permalink}}" alt="logo" />
+				</a>
+				<a
+					href="https://www.linkedin.com/company/brisqq"
+					class="logo float-left"
+				>
+					{{ $img := resources.Get "images/linkedin_logo.svg" }}
+					<img class="" src="{{ $img.Permalink}}" alt="logo" />
+				</a>
+			</li>
+		</ul>
+	</div>
 </div>
-
-<!-- <header class="header_area">
-	<nav class="navbar navbar-expand-lg menu_one">
-		<div class="container custom_container p0">
-			<a class="navbar-brand" href="/">
-				{{ $img := resources.Get "images/logotm.svg" }}
-				<img src="{{ $img.Permalink}}" alt="logo"
-			/></a>
-			<button
-				class="navbar-toggler collapsed"
-				type="button"
-				data-toggle="collapse"
-				data-target="#navbarSupportedContent"
-				aria-controls="navbarSupportedContent"
-				aria-expanded="false"
-				aria-label="Toggle navigation"
-			>
-				<span class="menu_toggle">
-					<span class="hamburger">
-						<span></span>
-						<span></span>
-						<span></span>
-					</span>
-					<span class="hamburger-cross">
-						<span></span>
-						<span></span>
-					</span>
-				</span>
-			</button>
-
-			<div class="collapse navbar-collapse" id="navbarSupportedContent">
-				<ul class="navbar-nav ml-auto menu">
-					<li class="nav-item">
-						<a class="nav-link" href="/platform"> Platform </a>
-					</li>
-					<li class="dropdown submenu nav-item">
-						<a
-							title="Pages"
-							class="dropdown-toggle nav-link"
-							data-toggle="dropdown"
-							role="button"
-							aria-haspopup="true"
-							aria-expanded="false"
-							href="#"
-							>Industries</a
-						>
-						<ul role="menu" class="dropdown-menu">
-							<li class="nav-item">
-								<a class="nav-link" href="/industries/3pl-couriers"
-									>3PL and Courier</a
-								>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="/industries/food-drink"
-									>Food and Drink</a
-								>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="/industries/non-food-retail"
-									>Non-Food Retail</a
-								>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="/industries/pharmaceutical-healthcare"
-									>Pharmaceutical and Healthcare</a
-								>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="/industries/construction"
-									>Construction Materials and DIY</a
-								>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="/industries/restaurants-dark-kitchens"
-									>Restaurants and Dark Kitchens</a
-								>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" href="/industries/field-services"
-									>Field Service</a
-								>
-							</li>
-						</ul>
-					</li>
-					<li class="nav-item dropdown submenu mega_menu">
-						<a
-							class="nav-link dropdown-toggle"
-							href="#"
-							role="button"
-							data-toggle="dropdown"
-							aria-haspopup="true"
-							aria-expanded="false"
-						>
-							Capabilities
-						</a>
-						<div class="mega_menu_inner">
-							<ul class="dropdown-menu">
-								<li class="nav-item responsive_menu">
-									<a href="#" class="nav-link">Routing and Planning</a>
-									<ul class="dropdown-menu">
-										<li class="nav-item">
-											<a href="/capabilities/single-depot" class="nav-link"
-												>Single Depot</a
-											>
-										</li>
-										<li class="nav-item">
-											<a href="/capabilities/multi-depot" class="nav-link"
-												>Multi Depot</a
-											>
-										</li>
-										<li class="nav-item">
-											<a
-												href="/capabilities/route-optimisation"
-												class="nav-link"
-												>Route Optimisation</a
-											>
-										</li>
-										<li class="nav-item">
-											<a href="/capabilities/shared-fleet" class="nav-link"
-												>Shared Fleet</a
-											>
-										</li>
-										<li class="nav-item">
-											<a href="/capabilities/flexible-tasks" class="nav-link"
-												>Flexible Tasks</a
-											>
-										</li>
-									</ul>
-								</li>
-								<li class="nav-item responsive_menu">
-									<a href="#" class="nav-link">Operations Management</a>
-									<ul class="dropdown-menu">
-										<li class="nav-item">
-											<a href="/capabilities/live-operations" class="nav-link"
-												>Live Operations</a
-											>
-										</li>
-										<li class="nav-item">
-											<a href="/capabilities/reverse-logistics" class="nav-link"
-												>Reverse Logistics</a
-											>
-										</li>
-										<li class="nav-item">
-											<a href="/capabilities/digital-pod" class="nav-link"
-												>Digital Proof of Delivery</a
-											>
-										</li>
-										<li class="nav-item">
-											<a href="/capabilities/hierarchy" class="nav-link"
-												>Parent-Child Hierarchy</a
-											>
-										</li>
-										<li class="nav-item">
-											<a href="/capabilities/user-management" class="nav-link"
-												>User Management</a
-											>
-										</li>
-									</ul>
-								</li>
-								<li class="nav-item responsive_menu">
-									<a href="#" class="nav-link">Fleet Management</a>
-									<ul class="dropdown-menu">
-										<li class="nav-item">
-											<a
-												href="/capabilities/vehicle-management"
-												class="nav-link"
-												>Vehicle Management</a
-											>
-										</li>
-										<li class="nav-item">
-											<a href="/capabilities/driver-management" class="nav-link"
-												>Driver Management</a
-											>
-										</li>
-										<li class="nav-item">
-											<a href="/capabilities/driver-app" class="nav-link"
-												>Driver App</a
-											>
-										</li>
-									</ul>
-								</li>
-								<li class="nav-item responsive_menu">
-									<a href="#" class="nav-link">Customer Experience</a>
-									<ul class="dropdown-menu">
-										<li class="nav-item">
-											<a
-												href="/capabilities/communication-alerts"
-												class="nav-link"
-												>Communication and Alerts</a
-											>
-										</li>
-										<li class="nav-item">
-											<a
-												href="/capabilities/customer-management"
-												class="nav-link"
-												>Customer Management</a
-											>
-										</li>
-										<li class="nav-item">
-											<a href="/capabilities/white-labeling" class="nav-link"
-												>White Labeling</a
-											>
-										</li>
-									</ul>
-								</li>
-								<li class="nav-item responsive_menu">
-									<a href="#" class="nav-link">Insight and Analytics</a>
-									<ul class="dropdown-menu">
-										<li class="nav-item">
-											<a
-												href="/capabilities/analytics-reporting"
-												class="nav-link"
-												>Analytics and Reporting</a
-											>
-										</li>
-										<li class="nav-item">
-											<a href="/capabilities/ratings-feedback" class="nav-link"
-												>Ratings and Feedback</a
-											>
-										</li>
-									</ul>
-								</li>
-							</ul>
-						</div>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="/pricing"> Pricing </a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="/about-us"> About Us </a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="/news"> News </a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="/blog"> Blog </a>
-					</li>
-					<a
-						class="btn_get btn_hover"
-						href="https://elogii.com/register?plan=premium-monthly"
-						>Start Free Trial</a
-					>
-					<li class="nav-item">
-						<a class="nav-link" href="https://dashboard.elogii.com/#/login">
-							Sign In
-						</a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</nav>
-</header> -->

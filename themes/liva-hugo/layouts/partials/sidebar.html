@@ -2,14 +2,31 @@
 <div class="col-lg-3">
   <!-- category -->
   <div class="widget">
-    <h4 class="widget-title">Contact:</h4>
-    <div class="col-lg-12 mb-5 mb-lg-0 media-contact">
-      <p>
-        For media, analyst, and speaking inquiries, please contact us.
-      </p>
-      <p>
-        <a href="mailto:contact@elogii.com" class="btn">contact@elogii.com</a>
-      </p>
-    </div>
+    <h4 class="widget-title">Categories</h4>
+    {{- if isset .Site.Taxonomies "categories" }}
+    {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
+    <ul class="list-unstyled">
+      {{- range $name, $items := .Site.Taxonomies.categories }}
+      <li><a
+          href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}">{{ replace $name "-" " " | title }}</a>
+      </li>
+      {{- end }}
+    </ul>
+    {{- end }}
+    {{- end }}
   </div>
- </div>
+  <!-- Tags -->
+  <div class="widget">
+    <h4 class="widget-title">Tags</h4>
+    {{- if isset .Site.Taxonomies "tags" }}
+    {{- if not (eq (len .Site.Taxonomies.tags) 0) }}
+    <ul class="list-inline">
+      {{- range $name, $items := .Site.Taxonomies.tags }}
+      <li class="list-inline-item"><a class="d-block"
+          href="{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}">{{ replace $name "-" " " | title }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+    {{- end }}
+  </div>
+</div>

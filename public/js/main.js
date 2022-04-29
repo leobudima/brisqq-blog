@@ -169,42 +169,42 @@ $(document).ready(function () {
 			}
 		});
 
-		function popupGallery() {
-			if ($('.img_popup,.image-link').length) {
-				$('.img_popup,.image-link').each(function () {
-					$('.img_popup,.image-link').magnificPopup({
-						type: 'image',
-						tLoading: 'Loading image #%curr%...',
-						removalDelay: 300,
-						mainClass: 'mfp-with-zoom mfp-img-mobile',
-						gallery: {
-							enabled: true,
-							navigateByImgClick: true,
-							preload: [0, 1] // Will preload 0 - before current, and 1 after the current image,
-						}
-					});
-				});
-			}
-			// if ($('.popup-youtube').length) {
-			$('.popup-youtube').magnificPopup({
-				disableOn: 700,
-				type: 'iframe',
-				removalDelay: 160,
-				preloader: false,
-				fixedContentPos: false,
-				mainClass: 'mfp-with-zoom mfp-img-mobile'
-			});
-			$('.popup-youtube').magnificPopup({
-				disableOn: 700,
-				type: 'iframe',
-				mainClass: 'mfp-fade',
-				removalDelay: 160,
-				preloader: false,
-				fixedContentPos: false
-			});
-			// }
-		}
-		popupGallery();
+		// function popupGallery() {
+		// 	if ($('.img_popup,.image-link').length) {
+		// 		$('.img_popup,.image-link').each(function () {
+		// 			$('.img_popup,.image-link').magnificPopup({
+		// 				type: 'image',
+		// 				tLoading: 'Loading image #%curr%...',
+		// 				removalDelay: 300,
+		// 				mainClass: 'mfp-with-zoom mfp-img-mobile',
+		// 				gallery: {
+		// 					enabled: true,
+		// 					navigateByImgClick: true,
+		// 					preload: [0, 1] // Will preload 0 - before current, and 1 after the current image,
+		// 				}
+		// 			});
+		// 		});
+		// 	}
+		// 	// if ($('.popup-youtube').length) {
+		// 	$('.popup-youtube').magnificPopup({
+		// 		disableOn: 700,
+		// 		type: 'iframe',
+		// 		removalDelay: 160,
+		// 		preloader: false,
+		// 		fixedContentPos: false,
+		// 		mainClass: 'mfp-with-zoom mfp-img-mobile'
+		// 	});
+		// 	$('.popup-youtube').magnificPopup({
+		// 		disableOn: 700,
+		// 		type: 'iframe',
+		// 		mainClass: 'mfp-fade',
+		// 		removalDelay: 160,
+		// 		preloader: false,
+		// 		fixedContentPos: false
+		// 	});
+		// 	// }
+		// }
+		// popupGallery();
 
 		function serviceSlider() {
 			var service_slider = $('.service_carousel');
@@ -1485,15 +1485,15 @@ if ($('#onfido-mount').length) {
 
 // ==========================================================================================
 
-flatpickr('#dob', {
-	enableTime: false,
-	dateFormat: 'Y-m-d',
-	disableMobile: 'true',
-	maxDate: new Date().fp_incr(-6574),
-	onChange: function (selectedDates, dateStr, instance) {
-		isCourierFormValid();
-	}
-});
+// flatpickr('#dob', {
+// 	enableTime: false,
+// 	dateFormat: 'Y-m-d',
+// 	disableMobile: 'true',
+// 	maxDate: new Date().fp_incr(-6574),
+// 	onChange: function (selectedDates, dateStr, instance) {
+// 		isCourierFormValid();
+// 	}
+// });
 
 // ===========================================================================================
 

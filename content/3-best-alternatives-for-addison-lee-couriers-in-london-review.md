@@ -1,5 +1,5 @@
 +++
-canonical = "https://brisqq.com/e-commerce-solution"
+canonical = "https://brisqq.com/addison-lee-couriers-alternatives/"
 categories = []
 date = 2022-05-05T10:00:00Z
 description = "Looking to replace Addison Lee couriers for your delivery in London? Here are 3 best alternative couriers to consider: Brisqq, Gophr, and CitySprint."

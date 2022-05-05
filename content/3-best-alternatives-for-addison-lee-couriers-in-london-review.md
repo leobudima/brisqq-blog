@@ -3,7 +3,6 @@ canonical = "https://brisqq.com/e-commerce-solution"
 categories = []
 date = 2022-05-05T10:00:00Z
 description = "Looking to replace Addison Lee couriers for your delivery in London? Here are 3 best alternative couriers to consider: Brisqq, Gophr, and CitySprint."
-draft = true
 image = "/blog/uploads/addison-lee-couriers-alternatives.jpg"
 tags = []
 title = "3 Best Alternatives for Addison Lee Couriers in London [Review]"
@@ -59,11 +58,19 @@ To book Addison Lee couriers, visit their website and click on the _Make a Booki
 
 Once there, you’ll have to enter the pickup and dropoff locations and the date of the delivery:
 
+![addison-lee-couriers-alternatives-destination](/blog/uploads/addison-lee-couriers-alternatives-contact-person.png "addison-lee-couriers-alternatives-destination")
+
 Choose the vehicle for your delivery:
+
+![addison-lee-couriers-alternatives-vehicle-selection](/blog/uploads/addison-lee-couriers-alternatives-vehicle-selection.jpg "addison-lee-couriers-alternatives-vehicle-selection")
 
 Add the contact information of the pickup and drop-off contact:
 
+![addison-lee-couriers-alternatives-destination](/blog/uploads/addison-lee-couriers-alternatives-destination.png "addison-lee-couriers-alternatives-destination")
+
 And select the payment method:
+
+![addison-lee-couriers-alternatives-payment](/blog/uploads/addison-lee-couriers-alternatives-payment.png "addison-lee-couriers-alternatives-payment")
 
 Besides this, you can also add a proof of delivery contact.
 
@@ -97,6 +104,8 @@ So while you may be a regular customer, you’ll still have trouble finding what
 
 For all those reasons, we’re giving Addison Lee a score of 14.5 out of 25:
 
+![addison-lee-couriers-alternatives-score](/blog/uploads/addison-lee-couriers-alternatives-score.png "addison-lee-couriers-alternatives-score")
+
 ## Addison Lee courier alternatives in London
 
 While Addison Lee has the largest courier fleet in London, it’s NOT the only one on offer.
@@ -113,9 +122,13 @@ It has also been designed around technology, with web store integration, online 
 
 Because of this, there are two offers on the table for you to choose from:
 
+![](/blog/uploads/addison-lee-couriers-alternatives-brisqq-integration-ecommerce.png)
+
 **E-Commerce:** Seamlessly integrate Brisqq with the checkout on your website or e-commerce platform and offer delivery to online shoppers in London without actually owning a delivery fleet.
 
 Or
+
+![addison-lee-couriers-alternatives-brisqq-one-hour-slots](/blog/uploads/addison-lee-couriers-alternatives-brisqq-one-hour-slots.jpg "addison-lee-couriers-alternatives-brisqq-one-hour-slots")
 
 **In-Store:** Use the Brisqq web app to schedule deliveries and returns in one-hour time slots for an easy and more precise approach to how you hire couriers in London.
 
@@ -138,15 +151,16 @@ Brisqq offers all of this and more!
 Brisqq is the most tech-advanced entry on the list. It enables your business to harness the power of technology to easily hire couriers and schedule deliveries all across London with:
 
 * **Easy access to on-demand delivery**: All you need is a web browser and to sign up for an account to book a Brisqq courier. Or download the Brisqq app ([iOS](https://apps.apple.com/gb/app/brisqq-courier/id1078729599) or [Android](https://play.google.com/store/apps/details?id=com.brisqq.courier.mobile&hl=en&gl=US))
-
 * **One-hour time slots**: Schedule deliveries when it’s convenient for you or your customer. With custom pick-up and drop-off points and inside 1-hour time windows.
+
+![](/blog/uploads/addison-lee-couriers-alternatives-brisqq-one-hour-time-slots.jpg)
 
 * **Multi-drop delivery**: Schedule multiple deliveries at once to multiple customers to save time and money, and speed up the time to drop-off.
 
+![addison-lee-couriers-alternatives-brisqq-multi-drop-off](/blog/uploads/addison-lee-couriers-alternatives-brisqq-multi-drop-off.jpg "addison-lee-couriers-alternatives-brisqq-multi-drop-off")
+
 * **Live tracking links**: Monitor the status of each delivery in real-time as soon as you hand it over to the courier. And share the tracking information with your customers.
-
 * **Gain valuable insights**: Use the Brisqq dashboard to track performance and ensure all deliveries and returns are up to your standard over time.
-
 * **Integration**: Create a tailored experience for your customers by letting them request delivery at checkout, online or in-store. You can integrate Brisqq with any e-commerce platform (your website, Magento, Woocommerce, etc.)
 
 ### How much does it cost to deliver with Brisqq?
@@ -161,19 +175,25 @@ Cancellations are free of charge within 15 minutes of scheduling the pick-up. Or
 
 Brisqq is a reliable courier service alternative to Addison Lee, especially if you’re a business in London. For that reason, we give it 22.5 out of 25:
 
+![addison-lee-couriers-alternatives-brisqq-score](/blog/uploads/addison-lee-couriers-alternatives-brisqq-score.png "addison-lee-couriers-alternatives-brisqq-score")
+
 But don’t take our word for it:
 
-_“Our customers appreciate having a one-hour delivery slot, because like us, they’re extremely busy.”_ Mark Welford, Director and Co-Founder of Bloomsbury Flowers
+> _“Our customers appreciate having a one-hour delivery slot, because like us, they’re extremely busy.”_ Mark Welford, Director and Co-Founder of Bloomsbury Flowers
 
 ## #2 Gophr - Cheap delivery when you need support for your fleet
 
 **Gophr** is another tech-led courier service in the UK. Like Addison Lee, it isn’t just a local courier in London, but it offers next-day and same-day package delivery to many other cities:
+
+![addison-lee-couriers-alternatives-gophr-cities-uk](/blog/uploads/addison-lee-couriers-alternatives-gophr-cities-uk.jpg "addison-lee-couriers-alternatives-gophr-cities-uk")
 
 On the other hand, like Brisqq, the company does use technology. With a network of couriers in multiple cities, they’re ideal for businesses that already have a delivery fleet, but need that little bit of extra support to service all of their customers.
 
 But what really sets Gophr apart is their focus on eco-friendly delivery. In fact, they’re one of the first courier companies in London to use electric motorcycles or bikes.
 
 Add to that their [partnership with Parcelly](https://uk.gophr.com/blog-gophr-x-parcelly) - a company that owns 2,500 hyper-local warehouses across the UK - and they have much lower CO2 emissions when compared to Addison Lee.
+
+![](/blog/uploads/addison-lee-couriers-alternatives-gophr-storage-parcelly.png)
 
 How does Gophr outperform Addison Lee?
 
@@ -198,11 +218,15 @@ That’s great news because it makes them the most competitive alternative in te
 
 The Gophr delivery pricing is the cheapest on this list. It starts at £4.50 but without VAT.
 
+![](/blog/uploads/addison-lee-couriers-alternatives-gophr-vehicle-price-options.jpg)
+
 However, the price depends a lot on the delivery itself.
 
 For example, a bicycle delivery in London is the cheapest courier option. But depending on what kind of package you want to deliver and where, they’ll use a different vehicle. This raises the price significantly.
 
 However, there’s an instant quote calculator on their website:
+
+![addison-lee-couriers-alternatives-gophr-price-quote](/blog/uploads/addison-lee-couriers-alternatives-gophr-price-quote.jpg "addison-lee-couriers-alternatives-gophr-price-quote")
 
 This makes it easier to get a sense of how much you’ll pay for your delivery.
 
@@ -212,9 +236,13 @@ If you already have a delivery fleet but you need additional support to handle a
 
 For that reason, Gophr scores almost as high as Brisqq with a commanding 20.5 out of 25:
 
+![addison-lee-couriers-alternatives-gophr-score](/blog/uploads/addison-lee-couriers-alternatives-gophr-score.png "addison-lee-couriers-alternatives-gophr-score")
+
 ## #3 CitySprint - Large courier fleet with expertise in logistics
 
 **CitySprint** is a courier service that’s also a [third-party logistics provider (3PL)](https://elogii.com/blog/4pl-guide/). The range of their services extend from next-day and same-day courier delivery through international delivery, to logistics, freight, and storage.
+
+![addison-lee-couriers-alternatives-city-sprint-services](/blog/uploads/addison-lee-couriers-alternatives-city-sprint-services.png "addison-lee-couriers-alternatives-city-sprint-services")
 
 This makes them a direct competitor to Addison Lee.
 
@@ -226,13 +254,17 @@ In addition, their expertise in logistics and international delivery means that 
 
 Besides all the typical requirements of delivery in London, like same-day delivery, automated scheduling, or delivery tracking, using CitySprint courier services has additional advantages.
 
-The biggest draw of CitySprint is the level of customization. They have over 20 different services you can choose from:
+The biggest draw of CitySprint is the level of customization. They have over 20 different services you can choose from.
 
 This allows you to choose a service that’s exactly the right fit for your business, in terms of type, size, order volumes, and complexity.
 
 For example, if you deal in frozen foods, you can hire a refrigerated vehicle. If your business places emphasis on green logistics, you can choose their eco-friendly cargo bike delivery to and from anywhere in London.
 
+![addison-lee-couriers-alternatives-city-sprint-cargo-bike](/blog/uploads/addison-lee-couriers-alternatives-city-sprint-cargo-bike.jpg "addison-lee-couriers-alternatives-city-sprint-cargo-bike")
+
 Next, they pay special attention to security. All of their couriers are DBS-checked and regularly complete eLearning courses with digital ID badges for extra safety and security at pick-up.
+
+![addison-lee-couriers-alternatives-city-sprint-dbs-checks](/blog/uploads/addison-lee-couriers-alternatives-city-sprint-dbs-checks.png "addison-lee-couriers-alternatives-city-sprint-dbs-checks")
 
 The only real issue with their delivery service is that their couriers can sometimes be late, and there’s no real way of notifying customers if that happens. Or when the courier is on his way to the customer.
 
@@ -242,19 +274,25 @@ CitySprint deliveries start at £14.26 (without VAT). That makes them just a bit
 
 In addition to this, CitySprint also includes fuel surcharges for specific deliveries:
 
+![addison-lee-couriers-alternatives-city-sprint-fuel-surcharge](/blog/uploads/addison-lee-couriers-alternatives-city-sprint-fuel-surcharge.png "addison-lee-couriers-alternatives-city-sprint-fuel-surcharge")
+
 But within the price you receive a £25 parcel coverage, in case the package gets damaged in transit. With an additional coverage option up to £1000.
 
 ### How do CitySprint couriers score?
 
 CitySprint is a large courier fleet in London, with an extended service offer and expertise in logistics that make it ideal for businesses looking to outsource a delivery fleet.
 
-But their price, legacy tech, and lower customer service mean they score 17.5 out of 25.
+But their price, legacy tech, and lower customer service mean they score 17.5 out of 25:
+
+![addison-lee-couriers-alternatives-city-sprint-score](/blog/uploads/addison-lee-couriers-alternatives-city-sprint-score.png "addison-lee-couriers-alternatives-city-sprint-score")
 
 ## The Bottom Line
 
-When it comes to courier services in London, Addison Lee has its pros and cons. But so do all of these other companies.
+When it comes to courier services in London, Addison Lee has its pros and cons. But so do all of these other companies
 
-But when it comes to our ratings Brisqq takes the top spot, with Gophr coming in slightly behind.
+![addison-lee-couriers-alternatives-review](/blog/uploads/addison-lee-couriers-alternatives-review.png "addison-lee-couriers-alternatives-review")
+
+But when it comes to our ratings Brisqq is the clear winner, with Gophr coming in slightly behind.
 
 So if you’re looking for **the best all-around alternative for business delivery in London** choose [Brisqq](https://brisqq.com/).
 

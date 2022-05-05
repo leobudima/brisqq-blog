@@ -367,15 +367,15 @@
 	}
 }
 
-.mx-auto {
-	.content {
-		p {
-			img {
-				width: 100%;
-			}
-		}
-	}
-}
+// .mx-auto {
+// 	.content {
+// 		p {
+// 			img {
+// 				width: 100%;
+// 			}
+// 		}
+// 	}
+// }
 
 .head-image {
 	margin-bottom: 80px;
@@ -411,6 +411,15 @@
 			}
 			.headline3 {
 				font-size: 22px;
+			}
+		}
+		.mx-auto {
+			.content {
+				p {
+					img {
+						width: 100%;
+					}
+				}
 			}
 		}
 	}

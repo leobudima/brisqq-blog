@@ -561,9 +561,6 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
   color: #00b7e5;
   font-size: 38px; }
 
-.mx-auto .content p img {
-  width: 100%; }
-
 .head-image {
   margin-bottom: 80px;
   height: 600px;
@@ -589,6 +586,8 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
     margin-top: 30px; }
   .container .row .headline3 {
     font-size: 22px; }
+  .container .mx-auto .content p img {
+    width: 100%; }
   .head-image {
     width: auto;
     height: 300px;

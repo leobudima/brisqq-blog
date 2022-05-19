@@ -31,11 +31,17 @@ Let’s start.
 
 The company provides a nationwide coverage with 5000+ couriers and 35 local service centers in major UK cities (from Aberdeen to Southampton):
 
+![city-sprint-courier-alternatives-local-centers](/blog/uploads/city-sprint-courier-alternatives-local-centers.png "city-sprint-courier-alternatives-local-centers")
+
 While CitySprint is a national courier, they operate at a local level.
 
 In the Greater London Area, their local centers are spread across 8 locations, including East and Central London, Gatwick, and Heathrow:
 
+![city-sprint-courier-alternatives-local-centers-london](/blog/uploads/city-sprint-courier-alternatives-local-centers-london.png "city-sprint-courier-alternatives-local-centers-london")
+
 The wide range of CitySprints’ offer extends to 15+ services split into 3 different categories:
+
+![city-sprint-courier-alternatives-services](/blog/uploads/city-sprint-courier-alternatives-services.png "city-sprint-courier-alternatives-services")
 
 While this makes them an excellent 3PL to outsource your logistics, how do they fare as a courier service for your business?
 
@@ -69,7 +75,11 @@ You can also create a CitySprint account.
 
 This gives you access to the CitySprint same-day online booking portal:
 
+![city-sprint-courier-alternatives-dashboard](/blog/uploads/city-sprint-courier-alternatives-dashboard.png "city-sprint-courier-alternatives-dashboard")
+
 Here you can customize your delivery. For example, pick the right type of same-day delivery:
+
+![city-sprint-courier-alternatives-delivery-service-type](/blog/uploads/city-sprint-courier-alternatives-delivery-service-type.jpg "city-sprint-courier-alternatives-delivery-service-type")
 
 You also get other benefits like:
 
@@ -88,6 +98,8 @@ With their zero emissions same-day delivery service you can deliver orders anywh
 This is possible with CitySprint’s green fleet.
 
 The fleet consists of pushbikes, special cargo bikes, and electric motorbikes and vans, as well as hydrogen-powered vans:
+
+![city-sprint-courier-alternatives-vehicle-types](/blog/uploads/city-sprint-courier-alternatives-vehicle-types.jpg "city-sprint-courier-alternatives-vehicle-types")
 
 ## Disadvantages of Using CitySprint
 
@@ -161,6 +173,8 @@ That’s without VAT.
 
 It also doesn’t include the surcharges on fuel you can expect to pay.
 
+![city-sprint-courier-alternatives-dashboard](/blog/uploads/city-sprint-courier-alternatives-fuel-surcharge.png "city-sprint-courier-alternatives-dashboard")
+
 (Or other additional fees.)
 
 This would be fine and well, if their service warranted the price.
@@ -178,6 +192,8 @@ This company specialises in delivery for businesses in London. For both B2C and 
 But what really sets Brisqq apart from CitySprint is their technology.
 
 Brisqq has one of the most sophisticated delivery booking platforms in the UK.
+
+![city-sprint-courier-alternatives-elogii-platform](/blog/uploads/city-sprint-courier-alternatives-elogii-platform.jpg "city-sprint-courier-alternatives-elogii-platform")
 
 The Brisqq platform comes with:
 
@@ -216,6 +232,8 @@ You can also let customers book deliveries themselves. (More on that in a second
 
 Once you set up your account, you get access to all available timeslots.
 
+![city-sprint-courier-alternatives-elogii-timeslots](/blog/uploads/city-sprint-courier-alternatives-elogii-timeslots.jpg "city-sprint-courier-alternatives-elogii-timeslots")
+
 Then all you have to do is select the best one and [schedule a delivery](https://elogii.com/blog/how-to-plan-better-delivery-schedules/).
 
 You can do this even if you need to deliver the package tomorrow, the day after, or on Monday.
@@ -229,6 +247,8 @@ If you have multiple deliveries, you can schedule all of them by selecting the m
 Brisqq is especially useful for e-commerce companies in London.
 
 You can integrate their delivery platform with your webstore.
+
+![city-sprint-courier-alternatives-elogii-integration](/blog/uploads/city-sprint-courier-alternatives-elogii-integration.png "city-sprint-courier-alternatives-elogii-integration")
 
 This works with both dedicated websites and major platforms like Magento or WooCommerce.
 
@@ -252,11 +272,13 @@ Everything is transparent…
 
 A courier service like Brisqq is only as good as its tracking technology.
 
+![city-sprint-courier-alternatives-elogii-delivery-tracking](/blog/uploads/city-sprint-courier-alternatives-elogii-delivery-tracking.jpg "city-sprint-courier-alternatives-elogii-delivery-tracking")
+
 Whether it’s real-time delivery tracking, sending tracking links to customers, getting status updates, [collecting proof of delivery](https://elogii.com/blog/proof-of-delivery/), or gaining performance insights, Brisqq is REALLY good.
 
 And all you need is a web browser to sign in on your account.
 
-Or download the Brisqq app that works with both iOS and Android.
+Or download the Brisqq app that works with both [iOS](https://apps.apple.com/gb/app/brisqq-courier/id1078729599) and [Android](https://play.google.com/store/apps/details?id=com.brisqq.courier.mobile&hl=en&gl=US).
 
 ## Disadvantages of using Brisqq couriers
 
@@ -306,6 +328,8 @@ But they are also a direct competitor to CitySprint.
 
 With 9000+ signed up couriers, their network extends to 25+ other cities across the UK:
 
+![city-sprint-courier-alternatives-gophr-locations](/blog/uploads/city-sprint-courier-alternatives-gophr-locations.jpg "city-sprint-courier-alternatives-gophr-locations")
+
 But unlike CitySprint, they rely on more advanced technology. A lot like Brisqq.
 
 In fact, many companies use them to supplement their existing delivery fleets.
@@ -314,7 +338,9 @@ And yet they are also focused on lowering their carbon footprint.
 
 Gophr also uses alternative-energy vehicles, such as cargo bikes.
 
-But they have also partnered with Parcelly to cut down CO2 emissions by reducing the distances their vehicles travel.
+But they have also [partnered with Parcelly](https://uk.gophr.com/blog-gophr-x-parcelly) to cut down CO2 emissions by reducing the distances their vehicles travel.
+
+![city-sprint-courier-alternatives-gophr-storage-parcelly](/blog/uploads/city-sprint-courier-alternatives-gophr-storage-parcelly.png "city-sprint-courier-alternatives-gophr-storage-parcelly")
 
 ## Advantages of using Gophr couriers
 
@@ -388,11 +414,15 @@ Gophr pricing starts at **£4.50 per delivery** (without VAT).
 
 But the price you end up paying will depend a lot on the delivery itself.
 
+![city-sprint-courier-alternatives-gophr-vehicle-price-options](/blog/uploads/city-sprint-courier-alternatives-gophr-vehicle-price-options.jpg "city-sprint-courier-alternatives-gophr-vehicle-price-options")
+
 The size of the parcel and the distance between destinations raises the cost.
 
 For example, their cheapest delivery is a bicycle delivery in London for a package that’s under 45 x 45 x 45 cm.
 
 You can get an estimate on their website by clicking on the Quick Quote calculator:
+
+![city-sprint-courier-alternatives-gophr-price-quote](/blog/uploads/city-sprint-courier-alternatives-gophr-price-quote.jpg "city-sprint-courier-alternatives-gophr-price-quote")
 
 ## #3 Absolutely Courier - A simple and reliable way to deliver goods in London
 
@@ -457,6 +487,8 @@ It doesn’t matter if you have an account or not on the Absolutely website.
 
 All customers can track the status of their packages.
 
+![city-sprint-courier-alternatives-absolutely-package-tracking](/blog/uploads/city-sprint-courier-alternatives-absolutely-package-tracking.png "city-sprint-courier-alternatives-absolutely-package-tracking")
+
 That means you can send the unique tracking number to customers.
 
 And all they have to do is go to the website, enter the number (as a guest) and see the location or status of their package.
@@ -466,6 +498,8 @@ And all they have to do is go to the website, enter the number (as a guest) and 
 If you regularly send parcels to the same addresses, Absolutely has got you covered.
 
 The Address Book feature on your account allows you to add frequent delivery locations in London.
+
+![city-sprint-courier-alternatives-absolutely-address-book](/blog/uploads/city-sprint-courier-alternatives-absolutely-address-book.jpg "city-sprint-courier-alternatives-absolutely-address-book")
 
 This makes it much easier to schedule new deliveries.
 
@@ -481,7 +515,7 @@ They provide coverage for parcels up to £500.
 
 (This is the lowest insurance coverage on the list.)
 
-For example, Brisqq can cover
+For example, Brisqq can cover up to £2000 value of goods.
 
 So if you’re looking to move expensive or luxury items, you should consider outside insurance.
 
@@ -490,6 +524,8 @@ So if you’re looking to move expensive or luxury items, you should consider ou
 Absolutely is intended for all customers. Businesses and common users.
 
 So while they have a good UI and UX, it does lack features which other courier services provide.
+
+![city-sprint-courier-alternatives-absolutely-dashboard](/blog/uploads/city-sprint-courier-alternatives-absolutely-dashboard.jpg "city-sprint-courier-alternatives-absolutely-dashboard")
 
 Mainly it lacks a more advanced capability when it comes to how you review deliveries.
 
@@ -518,11 +554,8 @@ You can find the contact details [here](https://www.absolutelycourier.com/contac
 ## Bottom Line
 
 * **CitySprint** is a good courier service. But it’s a better third-party logistics provider. So it’s best suited for businesses that need extra logistical support. And for companies that want to do business in London, as well as the rest of the country.
-
 * **Brisqq** is a tech-oriented courier service that’s overall good for businesses in London. But it’s best suited for e-commerce and retail brands that need reliability, control, and transparency over the delivery experience. Plus something extra for their customers.
-
 * **Gophr** is better suited for businesses that deliver all across the UK. Or companies in industries that require special care during transportation, such as pharmacies or food and beverage establishments.
-
 * **Absolutely** is the oldest courier service in London. It’s also a fairly basic and reliable delivery for business, but it makes it a great solution to meet common delivery needs.
 
 This is our verdict.

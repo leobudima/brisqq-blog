@@ -3,7 +3,6 @@ canonical = "https://brisqq.com/blog/city-sprint-courier-alternatives/"
 categories = []
 date = 2022-05-16T10:00:00Z
 description = "Here’s a thorough assessment of 3 best CitySprint courier service alternatives in London, including: Brisqq, Gophr, and Absolutely Couriers."
-draft = true
 image = "/blog/uploads/city-sprint-courier-alternatives.jpg"
 tags = []
 title = "Tired of CitySprint? Here are 3 other couriers you can use in London"

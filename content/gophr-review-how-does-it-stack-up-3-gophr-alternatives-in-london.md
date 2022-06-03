@@ -33,7 +33,9 @@ Let’s jump in.
 
 ## What is Gophr?
 
-Gophr is a courier and delivery service based in London. Their service is available across +25 towns and cities in the UK:
+[Gophr](https://uk.gophr.com/) is a courier and delivery service based in London. Their service is available across +25 towns and cities in the UK:
+
+![gophr-courier-map-locations](/blog/uploads/gophr-courier-map-locations.png "gophr-courier-map-locations")
 
 But their main focus is around London, Birmingham and Manchester. (So we’ll ours)
 
@@ -54,11 +56,17 @@ For these services they offer various other specific options, such as:
 
 Their fleet has 9000+ couriers that use a variety of vehicles from bikes and motorcycles, to cars and large vans. The Gophr fleet also includes vehicles with a lower carbon footprint like cargo bikes:
 
+![gophr-courier-vehicles](/blog/uploads/gophr-courier-vehicles.jpg "gophr-courier-vehicles")
+
 ## How to book a delivery with Gophr?
 
 First, you’ll need to register on the website.
 
+![gophr-courier-website](/blog/uploads/gophr-courier-website.png "gophr-courier-website")
+
 You can do this with a social network account or via email:
+
+![gophr-courier-registration](/blog/uploads/gophr-courier-registration.png "gophr-courier-registration")
 
 (This is a necessary step to book a delivery.)
 
@@ -66,7 +74,11 @@ To book the delivery with Gophr:
 
 1\. Select the _“Book a job”_ tab.
 
+![gophr-courier-book-a-job](/blog/uploads/gophr-courier-book-a-job.png "gophr-courier-book-a-job")
+
 2\. Enter the pick up address
+
+![gophr-courier-pickup](/blog/uploads/gophr-courier-pickup.png "gophr-courier-pickup")
 
 3\. Enter the delivery details
 
@@ -75,6 +87,8 @@ To book the delivery with Gophr:
 5\. Enter parcel details
 
 6\. Set the vehicle type
+
+![gophr-courier-selecting-vehicle](/blog/uploads/gophr-courier-selecting-vehicle.png "gophr-courier-selecting-vehicle")
 
 7\. Set the delivery timing
 
@@ -138,9 +152,11 @@ And it’s an essential feature when you’re looking for high volume bookings v
 
 Gophr’s main focus is on hyper-local same-day delivery.
 
-To provide this, Gophr has partnered with Parcelly.
+To provide this, Gophr has [partnered with Parcelly](https://uk.gophr.com/blog-gophr-x-parcelly).
 
 Parcelly is a hyper local warehousing company that manages over 2,500 warehouses in the UK.
+
+![gophr-courier-parcelly](/blog/uploads/gophr-courier-parcelly.png "gophr-courier-parcelly")
 
 This partnership enables Gophr couriers to cut the distance between pick-up and drop-off.
 
@@ -164,7 +180,7 @@ Gophr does provide GPS tracking.
 
 And it’s pretty good.
 
-But what doesn’t work so well is the estimated time of arrival (ETA).
+But what doesn’t work so well is the [estimated time of arrival (ETA)](https://elogii.com/blog/estimated-time-of-arrival-eta/).
 
 Customers often find that the ETA doesn’t match the actual time when your delivery arrives.
 
@@ -185,16 +201,11 @@ You have 90 seconds after the courier has accepted your delivery to cancel witho
 
 Otherwise, the minimum cancellation fees per vehicle are:
 
-Pushbike = £4.50
-
-Cargo bike = £8.50
-
-Motorbike = £5.50
-
-Car = £8.50
-
-Small Van = £11.00
-
+Pushbike = £4.50  
+Cargo bike = £8.50  
+Motorbike = £5.50  
+Car = £8.50  
+Small Van = £11.00  
 Large Van = £14.00
 
 And cancellation fees increase as the job status gets closer to Delivered.
@@ -221,19 +232,29 @@ This is worth considering if customer service is a big part of your business.
 
 ## #1 Brisqq - a tech-oriented courier service for London business
 
-Brisqq is a courier service company located in Central London that specializes in B2C and B2B delivery for businesses located in London.
+![gophr-courier-brisqq-website](/blog/uploads/gophr-courier-brisqq-website.png "gophr-courier-brisqq-website")
+
+[Brisqq](https://brisqq.com/) is a courier service company located in Central London that specializes in B2C and B2B delivery for businesses located in London.
 
 What sets Brisqq apart is its technology.
 
-So besides the standard courier platform (for booking same-day or next-day deliveries), you also get full operational control and support that pairs well with both in-store delivery and e-commerce fulfillment.
+So besides the standard courier platform (for booking same-day or next-day deliveries), you also get full operational control and support that pairs well with both in-store delivery and [e-commerce fulfillment](https://elogii.com/blog/ecommerce-fulfillment/).
+
+![gophr-courier-brisqq-platform](/blog/uploads/gophr-courier-brisqq-platform.jpg "gophr-courier-brisqq-platform")
 
 Specifically, you can use your Brisqq for time-sensitive delivery with 1-hour timeslots (for you and your customers):
 
+![gophr-courier-brisqq-timeslots](/blog/uploads/gophr-courier-brisqq-timeslots.png "gophr-courier-brisqq-timeslots")
+
 But also planning multi-drop delivery (for a same-day or future date):
+
+![gophr-courier-brisqq-multi-drop](/blog/uploads/gophr-courier-brisqq-multi-drop.png "gophr-courier-brisqq-multi-drop")
 
 Each booked delivery is visible on the live map:
 
-Besides this you receive status updates at every point of the delivery lifecycle. Better still, you can set up alerts and notifications for your and your customers, with precise estimated times of arrival:
+![gophr-courier-brisqq-map](/blog/uploads/gophr-courier-brisqq-map.png "gophr-courier-brisqq-map")
+
+Besides this you receive status updates at every point of the delivery lifecycle. Better still, you can set up alerts and notifications for your and your customers, with precise estimated times of arrival.
 
 Since Brisqq serves e-commerce stores in London (besides physical stores), you can integrate it with a webshop.
 
@@ -245,7 +266,7 @@ For in-store delivery, all you need to have is a browser like Google Chrome to a
 
 ### How much does it cost to deliver with Brisqq?
 
-Brisqq pricing starts from £8.25 per delivery (with VAT). So it isn’t as cheap as Gophr.
+Brisqq pricing starts from **£8.25 per delivery** (with VAT). So it isn’t as cheap as Gophr.
 
 You can set a price for minimum volumes. Which does make it more affordable (like Gophr’s volume discounts).
 
@@ -253,13 +274,19 @@ But cancelations are free if done within 15-minutes after scheduling. Or 60 minu
 
 ## #2 CitySprint - Full logistical support for deliveries beyond London
 
-CitySprint is a courier service and third-party logistics provider (3PL) based all across the UK.
+![gophr-courier-citysprint](/blog/uploads/gophr-courier-citysprint.png "gophr-courier-citysprint")
+
+[CitySprint](https://www.citysprint.co.uk/) is a courier service and third-party logistics provider (3PL) based all across the UK.
 
 The company provides nationwide coverage with a network of 35 local service centers and +5000 couriers from Aberdeen to Brighton:
+
+![gophr-courier-citysprint-locations](/blog/uploads/gophr-courier-citysprint-locations.png "gophr-courier-citysprint-locations")
 
 But while Gophr operates only nationally, CitySprint can also deliver goods to the continent via international delivery.
 
 As a 3PL, CitySprint offers a much more varied offer in terms of services. In fact, their service list extends to 15+ services split into three categories:
+
+![gophr-courier-citysprint-services](/blog/uploads/gophr-courier-citysprint-services.png "gophr-courier-citysprint-services")
 
 CitySprint is the most readily available courier company in the UK, operating 24 hours a day, 365 a year. That makes them the top choice when you want to deliver goods during holidays.
 
@@ -267,21 +294,21 @@ CitySprint also features an online platform. But it’s much simpler then the on
 
 Still you have access to easy online booking and delivery tracking:
 
+![gophr-courier-citysprint-dashboard](/blog/uploads/gophr-courier-citysprint-dashboard.png "gophr-courier-citysprint-dashboard")
+
 (Although their tracking technology isn’t as reliable.)
 
 Plus, you get other benefits like:
 
-Real-time online tracking
-
-Proof of delivery (POD)
-
-Full 2-month report
-
-Custom delivery updates
-
-Access to collect-by-times
+* Real-time online tracking
+* [Proof of delivery (POD)](https://elogii.com/blog/proof-of-delivery/)
+* Full 2-month report
+* Custom delivery updates
+* Access to collect-by-times
 
 Like Gophr, CitySprint cares about reducing its carbon footprint. So they have an entire Green Fleet that consists of cargo bikes, as well as e-motorbikes, electric vans, and hydrogen vans:
+
+![gophr-courier-citysprint-vehicles](/blog/uploads/gophr-courier-citysprint-vehicles.jpg "gophr-courier-citysprint-vehicles")
 
 ### How much does it cost to deliver with CitySprint?
 
@@ -291,7 +318,9 @@ But if you handle large delivery volumes all across the UK (with an occasional d
 
 ## #3 Absolutely Courier - A simple and reliable way to deliver in London
 
-Absolutely Courier is the oldest courier service provider in the United Kingdom (est. 1865).
+![gophr-courier-absolutely-couriers](/blog/uploads/gophr-courier-absolutely-couriers.png "gophr-courier-absolutely-couriers")
+
+[Absolutely Courier](https://www.absolutelycourier.com/) is the oldest courier service provider in the United Kingdom (est. 1865).
 
 Just like Brisqq, Absolutely operates exclusively in London with four offices spread across the capital. And it specializes in same–day courier services, but it can additionally provide:
 
@@ -309,9 +338,17 @@ Two things contribute to this:
 
 First, their customer service team is one of the best in London. Reliable, knowledgeable, and typically resolves any customer issues as soon as you call them.
 
-The second thing is their basic and user-friendly booking platform. It is pretty straightforward with limited options that includes simple booking (pick-up and delivery) and tracking:
+The second thing is their basic and user-friendly booking platform. It is pretty straightforward with limited options that includes simple booking (pick-up and delivery):
+
+![](/blog/uploads/gophr-courier-absolutely-couriers-dashboard.jpg)
+
+And delivery tracking:
+
+![gophr-courier-absolutely-couriers-tracking](/blog/uploads/gophr-courier-absolutely-couriers-tracking.png "gophr-courier-absolutely-couriers-tracking")
 
 A nice addition to their platform is the Address Book, which you can use to store data about frequent customers:
+
+![gophr-courier-absolutely-couriers-address-book](/blog/uploads/gophr-courier-absolutely-couriers-address-book.jpg "gophr-courier-absolutely-couriers-address-book")
 
 The only real issue with Absolutely is their limited insurance that covers only up to £500.
 
@@ -339,11 +376,11 @@ Yes, you can always spend more and sign up for an enterprise-grade Gophr solutio
 
 **Bottom Line?**
 
-If you’re serious about building a reliable delivery service in London, you’re much better off spending your money on Brisqq.
+If you’re serious about building a reliable delivery service in London, you’re much better off spending your money on **Brisqq**.
 
-If you want to scale and expand your delivery to the rest of the country, or to the continent, you’re much better off going with CitySprint.
+If you want to scale and expand your delivery to the rest of the country, or to the continent, you’re much better off going with **CitySprint**.
 
-And if you just need an occasional delivery here and there, then it’s much more affordable to choose Absolutely Couriers.
+And if you just need an occasional delivery here and there, then it’s much more affordable to choose **Absolutely Couriers**.
 
 So if you’re looking to see what at least one of these solutions can do for you, we can help you right now.
 

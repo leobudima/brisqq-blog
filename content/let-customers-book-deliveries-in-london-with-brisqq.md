@@ -3,7 +3,6 @@ canonical = "https://brisqq.com/blog/book-delivery-in-london/"
 categories = []
 date = 2022-07-11T10:00:00Z
 description = "There’s a better way to book deliveries in London. That lets your customers book deliveries on your website or ecommerce platform. It’s called Brisqq."
-draft = true
 image = "/blog/uploads/book-delivery-in-london.jpg"
 tags = []
 title = "Let Customers Book Deliveries in London with Brisqq"
@@ -131,6 +130,8 @@ The answer is simple:
 
 Brisqq for e-Commerce.
 
+![](/blog/uploads/same-day-courier-london-brisqq-integration.png)
+
 **Brisqq e-Commerce** is designed for online shops. It lets customers choose and book same-day or future-date deliveries at checkout on your sales channel with Brisqq. And it works both if you sell goods online via a web store on your site or a dedicated ecommerce platform like Magento or WooCommerce.
 
 So instead of receiving an order, and then booking a delivery via your Brisqq account, you allow customers to do it themselves. Without skipping a beat.
@@ -183,6 +184,8 @@ All they have to do is select the date of the delivery.
 
 And find an available 1-hour timeslot that works for them.
 
+![](/blog/uploads/dpd-delivery-review-brisqq-timeslots.jpg)
+
 Best of all, the booking platform is only visible to customers whose postcode is within the Brisqq delivery zone.
 
 Which means that customers outside of London don’t see the option to book a delivery.
@@ -211,7 +214,11 @@ But:
 
 At each stage of the delivery, you also have total transparency over the process with status updates and notifications (which you can set up yourself):
 
+![](/blog/uploads/dpd-delivery-review-brisqq-notification.png)
+
 And there’s also live, on-map tracking. Which lets you and YOUR CUSTOMER see the delivery and its location on the map in real-time:
+
+![](/blog/uploads/dpd-delivery-review-brisqq-map-delivery-tracking.png)
 
 Once the order is complete, you and the customer can rate the delivery experience.
 

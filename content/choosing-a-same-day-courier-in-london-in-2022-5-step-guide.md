@@ -3,7 +3,6 @@ canonical = "https://brisqq.com/blog/choosing-same-day-courier-london/"
 categories = []
 date = 2022-09-01T10:00:00Z
 description = "Same-day delivery has become THE most important part of business in the UK. But how do you choose the right same-day courier in London for you?"
-draft = true
 image = "/blog/uploads/choosing-same-day-courier-london.jpg"
 tags = []
 title = "Choosing a Same-Day Courier in London in 2022 (5-Step Guide)"
@@ -305,3 +304,13 @@ If a courier doesn't score high on one of these points, you can go with a differ
 Until you find the right one for your business.
 
 And if Brisqq is an obvious choice, then…
+
+## Get in touch with us
+
+[Get in touch with Brisqq](https://brisqq.com/landing/london-courier-services#signUp). Fill out a quick form and we’ll get back to you in less than 2 minutes.
+
+One of our support staff is always on call with a tailor-made offer for your business or a quote that’s in line with your delivery needs and your budget.
+
+Imagine what you want your delivery to look like…
+
+And start delivering that experience to your customers today!
